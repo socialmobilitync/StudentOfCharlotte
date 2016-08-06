@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "942079944365",
+    "firebase_url": "https://socialmobility-a540d.firebaseio.com",
+    "project_id": "socialmobility-a540d",
+    "storage_bucket": "socialmobility-a540d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942079944365:android:d00fe9d1887026c4",
+        "android_client_info": {
+          "package_name": "pritam.com.studentofcharlotte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942079944365-jrpjhg9lgfrcnutlhuces7irbklifsp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWqw2zrOlBWur1PcmSux0Wu84Najf2ZqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942079944365:android:b391e1c1e4d6c605",
+        "android_client_info": {
+          "package_name": "com.sid.notificationlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942079944365-jrpjhg9lgfrcnutlhuces7irbklifsp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWqw2zrOlBWur1PcmSux0Wu84Najf2ZqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
